@@ -1,4 +1,4 @@
-# Movie Dataset Analysis - CWW Tech Africa
+# Netflix Movies Analysis - CWW Tech Africa
 This repository focuses of analyzing a movie dataset to uncover insights into movie durations, trends of moviews over the years, and other relevant metrics. The analysis aims to provide actionable insights for content creators, movie sellers and people interested in understanding movie consumption patterns. 
 
 ## Dataset
