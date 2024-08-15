@@ -14,3 +14,17 @@ The analysis includes the following aspects:
 **Scatter Plot of Movie Duration** : Visualization of the relationship between movie release year and duration.
 
 **Movie Population Trends** : Examinations of movie genres and their popularity over different time periods.
+
+## Key Metrics
+
+**Total Duration of Movies** :  Sums of moview durations of different catergories
+
+**Movie Genre Statistics** : Insights into the distribution of different movie genres over the years. 
+
+## Requirements
+**Python** : Used for data cleaning, analysis and visualization
+**Pandas** : Used for data manipulation and DataFrame operations.
+**MatPlotlib** : Used for creating visualization such as scatter plots and line plots
+
+
+
